@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def test_002_vision(selenium):
     form = AuthForm(selenium)
-    form.driver.save_screenshot('screen_002.jpg')
+    form.driver.save_screenshot('screen.jpg')
 
 
 def test_005_by_phone(selenium):
@@ -20,7 +20,7 @@ def test_005_by_phone(selenium):
 def test_006_change_placeholder(selenium):
     form = AuthForm(selenium)
 
-    form.username.send_keys('+79998887766')
+    form.username.send_keys('+79184444444')
     form.password.send_keys('_')
     sleep(5)
 
@@ -29,7 +29,7 @@ def test_006_change_placeholder(selenium):
     form.username.send_keys(Keys.CONTROL, 'a')
     form.username.send_keys(Keys.DELETE)
 
-    form.username.send_keys('mail@mail.ru')
+    form.username.send_keys('deuuuuuss@mail.ru')
     form.password.send_keys('_')
     sleep(5)
 
