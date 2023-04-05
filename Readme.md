@@ -5,7 +5,7 @@ Task_28.1.
 
 Тестирование формы авторизации Личного кабинета Ростелеком https://b2c.passport.rt.ru
 
-Ссылка на требования по проекту - https://docs.google.com/document/d/14TRuoYG8JXlLCMXuesBXrbNK7OefVxMW/edit?usp=share_link&ouid=102111731768085493149&rtpof=true&sd=true
+Ссылка на требования по проекту - https://docs.google.com/document/d/1bWTiOO0Q9VjcHFYvRBo_GRAcP9kzbvZy/edit?usp=sharing&ouid=112062469802851557798&rtpof=true&sd=true
 
 По заданию тестирования необходимо:
 
@@ -17,7 +17,7 @@ Task_28.1.
 
 Оформить описание обнаруженных дефектов ( составить баг-репорты). Во время обучения вы работали с разными сервисами и шаблонами, используйте их для оформления тест-кейсов и обнаруженных дефектов. (если дефекты не будут обнаружены, то составить описание трех дефектов).
 
-Ссылка на тестирование требований, тест-кейсы, баг-репорты: https://docs.google.com/spreadsheets/d/1Ft2rO1JwWuUvDDa9X60SD_IvJUQJkCkkx3Sk0-GyJEM/edit?usp=sharing
+Ссылка на тестирование требований, тест-кейсы, баг-репорты: https://docs.google.com/spreadsheets/d/1AkD-Cl339274j2iKXB5KcKOiHlr4i73tRUmI91uYQY0/edit?usp=sharing
 
 base_data.py - базовые классы, процедуры, функции и локаторы для автотестов
 
