@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def test_002_vision(selenium):
     form = AuthForm(selenium)
-    form.driver.save_screenshot('screen.png')
+    form.driver.save_screenshot('screen.pdf')
 
 
 def test_005_by_phone(selenium):
